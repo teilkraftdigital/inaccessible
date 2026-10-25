@@ -63,4 +63,4 @@ Jeder Push auf `main` baut die Seite per GitHub Actions ([`.github/workflows/dep
 
 ---
 
-Ein Projekt von [teil:kraft](https://teilkraft.digital).
+Ein Projekt von [teil:kraft digital](https://teilkraft.digital).
